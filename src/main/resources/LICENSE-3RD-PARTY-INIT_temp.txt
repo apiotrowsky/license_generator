@@ -1,0 +1,6 @@
+   <component> SUBCOMPONENTS:
+   
+   The <component> project contains subcomponents with separate copyright notices 
+   and license terms. The different licenses and the subcomponents that use that 
+   particular license are listed below. The licenses used by these subcomponents 
+   are separately listed in full under the licenses-folder. 

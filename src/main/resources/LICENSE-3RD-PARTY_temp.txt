@@ -1,0 +1,7 @@
+========================================================================
+<name>
+========================================================================
+
+The following components are provided under the <name>. 
+The text of each license is also included at 
+licenses/LICENSE-[project]-[version].txt.
